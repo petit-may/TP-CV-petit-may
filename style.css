@@ -1,0 +1,80 @@
+body{
+    background-color:rgba(127, 104, 155, 0.234);/* body.permet de mertre une couleur dans tout la page=body*/
+    display: flex;
+    flex-wrap: nowrap;
+	justify-content: center;
+}
+.gauche{
+    float: left;
+        /* permet de mertre tout les teste a gauche*/
+    background-color: rgba(232, 190, 245, 0.993);/* merte de la couleur dans la parti gauche*/
+    width: 500px;
+    border: 1px solid;
+}
+.droite{
+    float: right;
+    background-color: srgb(234, 214, 238);
+    width: 500px;
+    border: 1px solid
+
+}
+
+.contacts{
+    background-color: aquamarine;
+    width: 200px;
+    border-radius: 3px;
+}
+
+
+.langue{
+    background-color: aquamarine;
+    width: 200px;
+    border-radius: 2px;
+}
+
+.Compétence{
+    background-color: aquamarine;
+    width: 200px;
+    border-radius: 2px;
+}
+
+.Loisir{
+    background-color:aquamarine;
+    width: 200px;
+    border-radius: 2px;
+}
+
+.Formation{
+    background-color: aquamarine;
+    width: 200px;
+    border-radius: 2px;
+}
+
+
+.Experience{
+    background-color:aquamarine;
+    width: 200px;
+    border-radius: 3px;
+}
+
+
+img {
+    border-radius: 30%;
+}
+
+/*border radius permet d'arrondir les bords de l'image*/
+
+/*    display: flex;
+    flex-wrap: nowrap;
+	justify-content: center; permmet de centrer tout l bloc générale  même si vous réduire onglet ou Agrandir   */
+
+   /*/*//*/*//*/*//*/*//**//*/*//*/*//*/
+    /*//*/*//*/*//*/*//**//*/*//*/*//*/
+
+    /*.Formation{
+    background-color: rgb(188, 190, 156); merte de la couleur dans le border-radius.
+    width: 200px;
+    
+    border-radius: 2px; = permet de mertre de définir des coins arrondis pour la bordure d'un élément.
+}
+= 
